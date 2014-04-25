@@ -1,3 +1,8 @@
+tmp.dir(function _tempDirCreated(err, path) {
+  if (err) throw err;
+
+  console.log("Dir: ", path);
+})
 var ExifImage = require('exif').ExifImage;
 
 try {
