@@ -1,0 +1,26 @@
+{
+  "name": "private-bitches",
+  "version": "0.0.0",
+  "description": "magic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/supershabam/spacemonkey"
+  },
+  "author": "IAN HANSEN",
+  "license": "private",
+  "bugs": {
+    "url": "https://github.com/supershabam/spacemonkey/issues"
+  },
+  "homepage": "https://github.com/supershabam/spacemonkey",
+  "private": true,
+  "dependencies": {
+    "express": "~4.1.0",
+    "video-thumb": "0.0.2",
+    "exif": "~0.4.0",
+    "gm": "~1.14.2"
+  }
+}
